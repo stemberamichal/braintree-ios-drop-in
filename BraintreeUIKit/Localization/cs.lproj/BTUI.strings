@@ -1,0 +1,84 @@
+/*
+  BTUI.strings
+  QuickJobs
+
+  Created by Michal Štembera on 23/09/2017.
+  Copyright © 2017 Netvor s.r.o. All rights reserved.
+*/
+
+"CARD_DETAILS_LABEL"                        = "Podrobnosti karty";
+"ENTER_CARD_DETAILS_HELP_LABEL"             = "Uveďte údaje na vaší karty počínaje jejím číslem.";
+"VALID_CARD_ERROR_LABEL"                    = "Prosím zadejte číslo karty.";
+"CARD_REQUIRED"                             = "Je vyžadováno číslo karty";
+"CARD_INVALID"                              = "Neplatné číslo karty";
+"EXPIRATION_REQUIRED"                       = "Je vyžadováno datum expirace";
+"EXPIRATION_INVALID"                        = "Neplatné datum expirace";
+"CVV_REQUIRED"                              = "%s je požadováno";
+"CVV_INVALID"                               = "%s je neplatné";
+"POSTAL_CODE_HELP_LABEL"                    = "Prosím zadejte validní PSČ.";
+"POSTAL_CODE_REQUIRED"                      = "Je vyžadováno PSČ";
+"POSTAL_CODE_INVALID"                       = "Neplatné PSČ";
+"COUNTRY_CODE_REQUIRED"                     = "Je vyžadován kód země";
+"COUNTRY_CODE_INVALID"                      = "Neplatný kód země";
+"MOBILE_NUMBER_REQUIRED"                    = "Je vyžadováno telefonní číslo";
+"MOBILE_NUMBER_INVALID"                     = "Neplatné telefonní číslo";
+"ENROLLMENT_WITH_SMS_HELP_LABEL"            = "Je možné, že tato karta vyžaduje přihlášení. Pokud je to třeba, bude vám odeslán oveřovací SMS kód.";
+"SMS_CODE_REQUIRED"                         = "Je vyžadován SMS kód";
+"SMS_CODE_INVALID"                          = "Neplatný SMS kód";
+
+"CANCEL_ACTION"                             = "Zrušit";
+"RETRY_ACTION"                              = "Znovu";
+"CONTINUE_ACTION"                           = "Pokračovat";
+"ADD_CARD_ACTION"                           = "Přidat kartu";
+"DONE_ACTION"                               = "Hotovo";
+"EDIT_ACTION"                               = "Upravit";
+"NEXT_ACTION"                               = "Další";
+"TOP_LEVEL_ERROR_ALERT_VIEW_OK_BUTTON_TEXT" = "OK";
+"SCAN_CARD_IO_ACTION"                       = "Skenovat kartu";
+
+"EDIT_PAYMENT_METHOD"                       = "Upravit platební metody";
+"THERE_WAS_AN_ERROR"                        = "Sorry, there was an error.";
+"REVIEW_AND_TRY_AGAIN"                      = "Prosím zkontrolujte zadané informace a zkuste to znovu.";
+"INVALID_LABEL"                             = "Neplatné:";
+
+"YEAR_LABEL"                                = "Rok";
+"MONTH_LABEL"                               = "Měsíc";
+
+"OTHER_LABEL"                               = "Jiné";
+"CREDIT_OR_DEBIT_CARD_LABEL"                = "Kreditní nebo debetní karta";
+"RECENT_LABEL"                              = "Nedávno použité";
+"SELECT_PAYMENT_LABEL"                      = "Vyberte platební metodu";
+
+"CONFIRM_ENROLLMENT_LABEL"                  = "Potvrdit přihlášení";
+"CONFIRM_ACTION"                            = "Potvrdit";
+"ENTER_SMS_CODE_SENT_HELP_LABEL"            = "Zadejte SMS kód odeslaný na %s";
+"SMS_CODE_LABEL"                            = "SMS kód";
+"CARD_TYPE_GENERIC_CARD"                    = "Karta";
+"MOBILE_COUNTRY_CODE_LABEL"                 = "Kód země";
+"SECURITY_CODE_LABEL"                       = "Bezpečnostní kód";
+"CVV_FIELD_PLACEHOLDER"                     = "CVV";
+"CVC_FIELD_PLACEHOLDER"                     = "CVC";
+"CID_FIELD_PLACEHOLDER"                     = "CID";
+"CVN_FIELD_PLACEHOLDER"                     = "CVN";
+"POSTAL_CODE_PLACEHOLDER"                   = "PSČ";
+"MOBILE_NUMBER_LABEL"                       = "Telefonní číslo";
+"EXPIRATION_DATE_LABEL"                     = "Datum expirace";
+"CARD_NUMBER_PLACEHOLDER"                   = "Číslo karty";
+"EXPIRY_PLACEHOLDER_FOUR_DIGIT_YEAR"        = "MM / YYYY";
+"EXPIRY_PLACEHOLDER_TWO_DIGIT_YEAR"         = "MM / YY";
+
+"PAYPAL"                                    = "PayPal";
+"CARD_TYPE_AMERICAN_EXPRESS"                = "American Express";
+"CARD_TYPE_DISCOVER"                        = "Discover";
+"CARD_TYPE_DINERS_CLUB"                     = "Diners Club";
+"CARD_TYPE_MASTER_CARD"                     = "MasterCard";
+"CARD_TYPE_VISA"                            = "Visa";
+"CARD_TYPE_JCB"                             = "JCB";
+"CARD_TYPE_MAESTRO"                         = "Maestro";
+"CARD_TYPE_UNION_PAY"                       = "UnionPay";
+"BRANDING_COINBASE"                         = "Coinbase";
+"BRANDING_VENMO"                            = "Venmo";
+"BRANDING_APPLE_PAY"                        = "Apple Pay";
+"BRANDING_ANDROID_PAY"                      = "Android Pay‏";
+"USE_DIFFERENT_PHONE_NUMBER_ACTION"         = "Použijte jiné telefonní číslo";
+"CARD_NOT_ACCEPTED_ERROR_LABEL"             = "Karta nebyla přijata";

@@ -257,6 +257,7 @@
 		4E893F56079C5D0E5FB1FF07 /* Pods-Tests-UnitTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-UnitTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tests-UnitTests/Pods-Tests-UnitTests.debug.xcconfig"; sourceTree = "<group>"; };
 		69624BD75D7A10A1C4C5B0F8 /* Pods-DropInDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DropInDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-DropInDemo/Pods-DropInDemo.release.xcconfig"; sourceTree = "<group>"; };
 		9053ABB714FF46965A04A3D0 /* libPods-DropInDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DropInDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		905E8E0F1F7972A800971228 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/BTUI.strings; sourceTree = "<group>"; };
 		9E9A2DAB5BA53008228298F4 /* libPods-Tests-UnitTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests-UnitTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A50ED7A51D8AF8C400A78EF0 /* BTPaymentSelectionViewControllerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTPaymentSelectionViewControllerTests.m; sourceTree = "<group>"; };
 		A50ED7A71D8B02AF00A78EF0 /* BTUIKViewUtilTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTUIKViewUtilTests.m; sourceTree = "<group>"; };
@@ -1218,6 +1219,7 @@
 				"zh-Hant",
 				ar,
 				"zh-Hant-HK",
+				cs,
 			);
 			mainGroup = A56C41601D833348000DFFAB;
 			productRefGroup = A56C416B1D833348000DFFAB /* Products */;
@@ -1604,6 +1606,7 @@
 				030D98331DC935B200161899 /* zh-Hant */,
 				030D98351DC9363500161899 /* ar */,
 				030D98361DC9385300161899 /* zh-Hant-HK */,
+				905E8E0F1F7972A800971228 /* cs */,
 			);
 			name = BTUI.strings;
 			sourceTree = "<group>";
