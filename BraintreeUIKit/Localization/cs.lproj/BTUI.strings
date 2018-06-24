@@ -7,7 +7,7 @@
 */
 
 "CARD_DETAILS_LABEL"                        = "Podrobnosti karty";
-"ENTER_CARD_DETAILS_HELP_LABEL"             = "Uveďte údaje na vaší karty počínaje jejím číslem.";
+"ENTER_CARD_DETAILS_HELP_LABEL"             = "Uveďte údaje vaší karty počínaje jejím číslem.";
 "VALID_CARD_ERROR_LABEL"                    = "Prosím zadejte číslo karty.";
 "CARD_REQUIRED"                             = "Je vyžadováno číslo karty";
 "CARD_INVALID"                              = "Neplatné číslo karty";
